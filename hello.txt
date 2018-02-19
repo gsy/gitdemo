@@ -1,7 +1,2 @@
-test1
-modify on master
-test magit
-
-test magit
-
-test magit
+master: make a conflict
+I am master
